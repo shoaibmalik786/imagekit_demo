@@ -20,3 +20,4 @@
 config/database.yml
 config/initializers/imagekit.rb
 public/uploads/*
+public/assets/*
